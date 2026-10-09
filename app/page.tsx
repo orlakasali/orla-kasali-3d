@@ -18,7 +18,7 @@ const projects = [
     title: "Green and Healthy",
     description:
       "A complete digital commerce ecosystem for a healthy food brand, including customer shopping, orders, products, marketing and business management.",
-    href: "https://green-and-healthy-pearl.vercel.app/",
+    href: "https://www.greenandhealthy.com.ng/",
   },
   {
     number: "03",
